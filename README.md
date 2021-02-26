@@ -44,7 +44,7 @@ System.out.print("Hello World!");
     
 ---
 
-### 5. rkdwh
+### 5. 강조
 
 *기울기*   
 _기울기2_   
@@ -57,6 +57,7 @@ __진하게__
 
 ### 6. 이미지 가져오기
 
+![image](https://user-images.githubusercontent.com/79622645/109258805-52f49c00-783e-11eb-8dc8-b0adab3ea693.png)
 
 
     
